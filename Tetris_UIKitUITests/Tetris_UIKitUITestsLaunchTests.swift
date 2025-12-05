@@ -1,6 +1,13 @@
+//
+//  Tetris_UIKitUITestsLaunchTests.swift
+//  Tetris_UIKitUITests
+//
+//  Created by Алиса on 05/12/25.
+//
+
 import XCTest
 
-final class TetrisUITestsLaunchTests: XCTestCase {
+final class Tetris_UIKitUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
